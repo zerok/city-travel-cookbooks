@@ -1,0 +1,34 @@
+* Brussels
+
+** Leaving the airport
+
+There are multiple ways to get from the airport to the city:
+
+- Train (quickest): 8.90€, not included in 24h JUMP, ticket can be
+  purchased directly at the train station under the airport from a
+  vending machine, ~30min to Gare Central
+
+- Bus (cheapest): airport bus ticket or MOBIB JUMP ticket, ~45min to
+  the city
+
+
+** Public transport
+
+- Get a MOBIB basic card for EUR 5 which you can then charge with
+  various ticket types. Can not be purchased at the airport train
+  station but at Gare Central (Metro station, not train station).
+
+- JUMP 72h for 18€
+
+
+** Hotels
+
+- Motel One near Parc: Walking distance from Gare Central
+
+
+** FOSDEM
+
+*** How to get there?
+
+- Bus 72 every 10 minutes (-> Delta)
+- Tram 92 -> Luise and then Tram 8 -> ULB
