@@ -24,6 +24,7 @@ There are multiple ways to get from the airport to the city:
 ** Hotels
 
 - Motel One near Parc: Walking distance from Gare Central
+  - Breakfast: 11.50€
 
 
 ** FOSDEM
