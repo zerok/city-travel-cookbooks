@@ -23,13 +23,21 @@ There are multiple ways to get from the airport to the city:
 
 ** Hotels
 
-- Motel One near Parc: Walking distance from Gare Central
-  - Breakfast: 11.50€
+*** Motel One near Parc
+
+- Walking distance from Gare Central
+- Breakfast: 11.50€
 
 
 ** Where to eat
 
-- Nütnigenough: Belgian cuisine, huge beer menu
+*** Nütnigenough
+
+- Belgian cuisine
+- huge beer menu
+- opens at 5pm and you should be there at 5:30pm latest!
+- No reservation!
+- About 15min on foot from the Motel One.
 
 
 ** FOSDEM
